@@ -10,10 +10,12 @@ The goal of Testpackage is to …
 
 ## Installation
 
-You can install the development version of Testpackage like so:
+You can install the development version of Testpackage from
+[GitHub](https://github.com/) with:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("devtools")
+devtools::install_github("Poolpoul/Testpackage")
 ```
 
 ## Example
