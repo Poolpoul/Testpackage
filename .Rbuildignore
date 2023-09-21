@@ -3,8 +3,12 @@
 ^LICENSE\.md$
 (^|/)\\.DS_Store$
 ^README\.Rmd$
+^docs$
+^pkgdown$
 ^\.github$
 ^testmvnpdf\.Rproj$
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
+^codecov\.yml$
+
