@@ -3,13 +3,12 @@
 ^LICENSE\.md$
 (^|/)\\.DS_Store$
 ^README\.Rmd$
-<<<<<<< HEAD
-^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
 ^\.github$
-=======
-^\.github$
 ^testmvnpdf\.Rproj$
->>>>>>> 73e0db806a031f2e54622c8c17e767f77561f1de
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
 ^codecov\.yml$
+
