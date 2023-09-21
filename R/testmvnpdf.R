@@ -97,3 +97,4 @@ mvnpdfsmart <- function(x, mean =  rep(0, nrow(x)),
   class(res) <- "mvnpdf"
   return(res)
 }
+
