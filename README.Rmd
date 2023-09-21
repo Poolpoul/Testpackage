@@ -18,11 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-<<<<<<< HEAD
 The goal of Testpackage relies on the computation of...
-=======
-The goal of Testpackage 
->>>>>>> f44f57c4e2c23334b6587a9c9f259d09bb706908
 
 ## Installation
 
