@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Testpackage is to …
+The goal of Testpackage
 
 ## Installation
 
