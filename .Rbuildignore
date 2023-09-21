@@ -3,3 +3,7 @@
 ^LICENSE\.md$
 (^|/)\\.DS_Store$
 ^README\.Rmd$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
