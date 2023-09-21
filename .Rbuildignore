@@ -5,3 +5,6 @@
 ^README\.Rmd$
 ^\.github$
 ^testmvnpdf\.Rproj$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
